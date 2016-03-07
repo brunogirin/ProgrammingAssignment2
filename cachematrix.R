@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Set of functions that provide caching for a matrix inverse.
 
 ## Create a special matrix that can cache its inverse, modelled as  list
 ## of functions that perform the caching.
