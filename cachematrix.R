@@ -27,7 +27,7 @@ cacheSolve <- function(x, ...) {
         return(i)
     }
     data <- x$get()
-    i <- resolve(data, ...)
+    i <- solve(data, ...)
     x$setinverse(i)
     i
 }
